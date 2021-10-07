@@ -1,3 +1,4 @@
+<<<<<<< main
 print('Hello World!')
 
 for i in range(1,100):
@@ -6,3 +7,6 @@ for i in range(1,100):
 else :
     print('well done')
     break
+=======
+hahha
+>>>>>>> hahah
