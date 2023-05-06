@@ -4,7 +4,7 @@ This is my first project
 
 haha
 <<<<<<< main
-zhengui nuceshi 
+这是一个ceshi 
 =======
 >>>>>>> main
 =======
